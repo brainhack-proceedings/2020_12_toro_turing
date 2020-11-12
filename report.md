@@ -11,8 +11,6 @@ last_changed: 2020-11-11 03:39 UTC
 auth_created: agahkarakuzu
 # ===============================================================  | END 
 
-# Name of the event. 
-# -----------------
 event: 'OHBM Brainhack 2020'
 
 # The title of your report. 
