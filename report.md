@@ -21,29 +21,14 @@ affiliations:
   city: Montreal
   state: Quebec
   country: Canada
-- id: aff2
-  orgname: 'Research Lab 2, Organization 2'
-  street: street_name_goes_here 
-  postcode: post_code_goes_here
-  city: Montreal
-  state: Quebec
-  country: Canada
 
 author:
 - initials: JD
   surname: Doe
   firstname: Jane
   email: janedoe@gmail.com
-  affiliation: aff1, aff2
+  affiliation: aff1
   corref: aff1
-  # Please make sure that you set corref (corresponding aff) if you have
-  # multiple afiliations
-- initials: JJD
-  surname: Doe
-  firstname: John J.
-  email: johndoe@gmail.com
-  affiliation: aff2
-  url: https://jonhdoe.website.com
 
 summary: Powered by GitHub Actions, Pandoc and Hugo, this simple repository can turn itself into a full-blown article page where you can download the PDF! Zero installation. We hope that this little project encourages all the great hackathon participants to create nifty reports worthy of their projects. If you have any suggestions or improvements, please feel free to open an issue or make a pull request at the brainhack-proceegins/template repository.
 
