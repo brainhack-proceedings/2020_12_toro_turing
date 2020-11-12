@@ -4,11 +4,11 @@
 # ========================================================================
 # Automatically edited by GitHub actions, please do not modify     | START 
 # ==============================================================
-report_url: https://github.com/brainhack-proceedings/template
+report_url: https://github.com/r03ert0/bptest
 
-last_changed: 2020-11-11 03:39 UTC
+last_changed: 2020-11-12 17:25 UTC
 
-auth_created: agahkarakuzu
+auth_created: r03ert0
 # ===============================================================  | END 
 
 title:  'An automagical report generator for BrainHack Proceedings'
