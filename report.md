@@ -49,6 +49,12 @@ In this section a mathematical model of the growing embryo will be described. Th
 The model takes two slightly different forms. In one of them the cell theory is recognized but the cells are idealized into geometrical points. In the other the matter of the organism is imagined as continuously distributed. The cells are not, however, completely ignored, for various physical and physico-chemical characteristics of the matter as a whole are assumed to have values appropriate to the cellular matter.
 With either of the models one proceeds as with a physical theory and defines an entitycalled 'the state of the system'. One then describes how that state is to be determined from the state at a moment very shortly before. With either model the description of the state consists of two parts, the mechanical and the chemical. The mechanical part of the state describes the positions, masses, velocities and elastic properties of the cells, and the forces between them. In the continuous form of the theory essentially the same information is given in the form of the stress, velocity, density and elasticity of the matter. The chemical part of the state is given (in the cell form of theory) as the chemical composition of each separate cell; the diffusibility of each substance between each two adjacent cells rnust also be given. In the continuous form of the theory the concentrations and diffusibilities of each substance have to be given at each point. In determining the changes of state one should take into account
 
+1. The changes of position and velocity as given by Newton's laws of motion.
+2. The stresses as given by the elasticities and motions, also taking into account the
+osmotic pressures as given from the chemical data.
+3. The chemical reactions.
+4. The diffusion of the chemical substances. The region in which this diffusion is possible is given from the mechanical data.
+
 The bibliography \code{report.bib} must respect \href{http://www.bibtex.org/Using/}{BibTeX} format. 
 You can cite entries in your bibliography using their tags:
 
