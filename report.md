@@ -37,11 +37,7 @@ tags:
   - Development
   - Simulation
 
-coi: Please add if there are competing interests. Otherwise, type None.
-
-acknow: The authors would like to thank the organizers and attendees of OHBM Brainhack 2020.
-
-contrib: JD and JJD wrote the software, JD performed tests, and JD and JJD wrote the report.
+coi: None.
 
 # Please comment out the following 4 lines if no reviewer has been assigned to you yet.
 reviewers:
