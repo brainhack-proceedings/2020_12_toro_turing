@@ -15,14 +15,18 @@ title:  'The Chemical Basis of Morphogenesis'
 url: https://github.com/username/project_repository 
 affiliations:
 - id: aff1
-  orgname: 'University of Manchester'
-  city: Manchester
-  country: United Kingdom
+  orgname: 'Research Lab 1, Organization 1'
+  street: street_name_goes_here 
+  postcode: post_code_goes_here
+  city: Montreal
+  state: Quebec
+  country: Canada
 
 author:
-- initials: AT
-  surname: Turing
-  firstname: Alan
+- initials: JD
+  surname: Doe
+  firstname: Jane
+  email: janedoe@gmail.com
   affiliation: aff1
   corref: aff1
 
