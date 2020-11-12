@@ -67,8 +67,8 @@ There may, however, be some other morphogens, of the nature of evocators, which 
 The greater part of this present paper requires only a very moderate knowledge of mathematics. What is chiefly required is an understanding of the solution of linear differential equations with constant coefficients. (This is also what is chiefly required for an understanding of mechanical and electrical oscillations.) The solution of such an equation takes the form of a sum $\sum{A e^{bt}}$, where the quantities $A$, $b$ may be complex, i.e. of the form $\alpha + i \beta$, where $\alpha$ and $\beta$ are ordinary (real) numbers and $i = \sqrt{-1}$. It is of great importance that the physical significance of the various possible solutions of this kind should be appreciated, for instance, that
 
 \begin{enumerate}
-  \item Since the solutions will normally be real one can also write them in the form BCA ebt or C%A ebt ($\mathbb{R}$ means 'real part of').
-  \item That if A = A' eiP and b = a+ iP, where A', a, /I,Q, are real, then %A ebt = A' eat cos (/It+ 4). 
+  \item Since the solutions will normally be real one can also write them in the form $\mathbb{R} \sum {A e^{bt}}$ or $\sum {A e^{bt}}$ ($\mathbb{R}$ means 'real part of').
+  \item That if $A = A' e^{i \psi}$ and $b = \alpha + i \beta$, where $A'$, $\alpha$, $\psi$, are real, then $\mathbb{R} A e^{bt} = A' e^{\alpha t} cos (\beta t+ \psi)$.
 \end{enumerate}
 
 The bibliography \code{report.bib} must respect \href{http://www.bibtex.org/Using/}{BibTeX} format. 
