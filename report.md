@@ -37,22 +37,9 @@ tags:
   - Development
   - Simulation
 
-coi: None.
-
-# Please comment out the following 4 lines if no reviewer has been assigned to you yet.
-reviewers:
-  - name: Agah
-    surname: Karakuzu
-    gh_handle: agahkarakuzu
-
-# Show/hide the BinderHub (mybinder.org) badge
-# Accepted values: true/false (case sensitive)
-# -------------------------------------------
-binder: true
-
-# Enable/disable hypothes.is
-# Accepted values: true/false (case sensitive)
-hypothesis: true
+coi: None
+binder: false
+hypothesis: false
 
 # Please do not delete --- below :) 
 ---
