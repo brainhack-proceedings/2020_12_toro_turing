@@ -20,10 +20,9 @@ affiliations:
   country: United Kingdom
 
 author:
-- initials: JD
-  surname: Doe
-  firstname: Jane
-  email: janedoe@gmail.com
+- initials: AT
+  surname: Turing
+  firstname: Alan
   affiliation: aff1
   corref: aff1
 
