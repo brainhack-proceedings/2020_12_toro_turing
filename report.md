@@ -23,9 +23,9 @@ affiliations:
   country: Canada
 
 author:
-- initials: JD
-  surname: Doe
-  firstname: Jane
+- initials: AT
+  surname: Turing
+  firstname: Alan
   email: janedoe@gmail.com
   affiliation: aff1
   corref: aff1
