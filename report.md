@@ -23,6 +23,7 @@ author:
 - initials: AT
   surname: Turing
   firstname: Alan
+  email: alan@gmail.com
   affiliation: aff1
   corref: aff1
 
