@@ -29,10 +29,8 @@ author:
   surname: Doe
   firstname: Jane
   email: janedoe@gmail.com
-  affiliation: aff1, aff2
+  affiliation: aff1
   corref: aff1
-  # Please make sure that you set corref (corresponding aff) if you have
-  # multiple afiliations
 
 summary: It is suggested that a system of chemical substances, called morphogens, reacting together and diffusing through a tissue, is adequate to account for the main phenomena of morphogenesis.
 Such a system, although it may originally be quite homogeneous, may later develop a pattern or structure due to an instability of the homogeneous equilibrium, which is triggered off by random disturbances. Such reaction-diffusion systems are considered in some detail in the case of an isolated ring of cells, a mathematically convenient, though biologically unusual system.
