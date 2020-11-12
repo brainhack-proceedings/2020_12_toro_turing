@@ -45,6 +45,7 @@ hypothesis: false
 ---
 
 # Introduction
+
 The bibliography \code{report.bib} must respect \href{http://www.bibtex.org/Using/}{BibTeX} format. 
 You can cite entries in your bibliography using their tags:
 
