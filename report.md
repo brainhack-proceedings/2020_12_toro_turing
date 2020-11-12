@@ -11,16 +11,13 @@ last_changed: 2020-11-12 18:47 UTC
 auth_created: r03ert0
 # ===============================================================  | END 
 
-title:  'An automagical report generator for BrainHack Proceedings'
-url: https://github.com/username/project_repository 
+title:  'The Chemical Basis of Morphogenesis'
+url: https://github.com/r03ert0/bptest 
 affiliations:
 - id: aff1
-  orgname: 'Research Lab 1, Organization 1'
-  street: street_name_goes_here 
-  postcode: post_code_goes_here
-  city: Montreal
-  state: Quebec
-  country: Canada
+  orgname: 'University of Manchester'
+  city: Manchester
+  country: United Kingdom
 
 author:
 - initials: JD
