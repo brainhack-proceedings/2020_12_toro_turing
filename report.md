@@ -34,6 +34,10 @@ tags:
   - Development
   - Simulation
 
+supplemental:
+  - name: Original manuscript
+    url: https://www.jstor.org/stable/92463
+
 coi: The author certifies he has no affiliations with or involvement in any organization or entity with any financial interest in the subject matter or materials discussed in this manuscript.
 
 acknow: The author would like to thank Ada Lovelace for her insightful comments on the nature of intelligence and the mind.
