@@ -34,9 +34,12 @@ tags:
   - Development
   - Simulation
 
-coi: None
+coi: The author certifies he has no affiliations with or involvement in any organization or entity with any financial interest in
+the subject matter or materials discussed in this manuscript.
 binder: false
 hypothesis: false
+acknow: The author would like to thank Ada Lovelace for her insightful comments on the nature of intelligence and the mind.
+contrib: AT wrote the software, performed tests, and wrote the report.
 
 # Please do not delete --- below :) 
 ---
