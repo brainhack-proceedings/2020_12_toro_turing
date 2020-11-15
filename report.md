@@ -82,6 +82,8 @@ The greater part of this present paper requires only a very moderate knowledge o
   \item That if $A = A' e^{i \psi}$ and $b = \alpha + i \beta$, where $A'$, $\alpha$, $\psi$, are real, then $R A e^{bt} = A' e^{\alpha t} cos (\beta t+ \psi)$.
 \end{enumerate}
 
+Thus each such term represents a sinusoidal oscillation if $\alpha = 0$, a damped oscillation if $\alpha < 0$, and an oscillation of ever-increasing amplitude if $\alpha>0$. 
+
 The bibliography \code{report.bib} must respect \href{http://www.bibtex.org/Using/}{BibTeX} format. 
 You can cite entries in your bibliography using their tags:
 
